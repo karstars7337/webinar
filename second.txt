@@ -1,1 +1,2 @@
 Second fie message
+Next string
